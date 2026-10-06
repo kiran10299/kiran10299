@@ -51,6 +51,4 @@ I love building lightweight, highly optimized desktop tools to improve daily pro
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran10299&show_icons=true&theme=radical&hide_border=true" alt="Kiran's GitHub Stats" />
-</p>
+
