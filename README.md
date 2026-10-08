@@ -30,16 +30,20 @@ I love building lightweight, highly optimized desktop tools to improve daily pro
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">⚙️ <a href="https://github.com/kiran10299/LabVIEW-Python-AI-Bridge">LabVIEW Python AI Bridge</a></h3>
+      <p>A hybrid architecture demonstrating how to process high-speed LabVIEW DAQ data through a Python Machine Learning backend for real-time Predictive Maintenance and Anomaly Detection.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">🖐️ <a href="https://github.com/kiran10299/AI-Hand-Gesture-Controller">AI Hand-Gesture PC Controller</a></h3>
       <p>A Computer Vision-powered desktop application built with <strong>Python, OpenCV, and MediaPipe</strong> that allows you to control your Windows mouse, scroll, and click using real-time hand gestures and a Sci-Fi HUD.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🛠️ <a href="https://github.com/kiran10299/Desktop-Super-Tools">Desktop-Super-Tools</a></h3>
       <p>A suite of background productivity scripts including a <i>"Zero-Clutter"</i> background watchdog that automatically organizes your downloaded files, and a <i>"Quick-Drop"</i> global transparent notepad.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
+    <td width="50%">
       <h3 align="center">👒 <a href="https://github.com/kiran10299/Straw-Hat-Reminders">Straw-Hat-Reminders</a></h3>
       <p>A fully animated, procedural vector-graphics desktop pet that runs silently in your system tray and monitors your active screen time to remind you to drink water, stretch, and rest your eyes.</p>
     </td>
