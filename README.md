@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a dedicated Application Engineer and Mechatronics graduate with nearly 5 years of professional experience in designing, developing, and implementing robust software solutions. I specialize in **Test & Measurement systems**, **Robotics**, and **Computer Vision**.
+I am a dedicated Application Engineer and Mechatronics graduate with **5+ years of professional experience** in designing, developing, and implementing robust software solutions. I specialize in **Test & Measurement systems**, **Robotics**, and **Computer Vision**.
 
 - 🔭 I’m currently working as an **Application Engineer at Ducom Aerospace Pvt Ltd**, where I develop software for tribology measurement, integrating complex sensor data (force, temperature, humidity, vibration).
 - 🤖 I have strong expertise in **Computer Vision & AI** using Python, OpenCV, TensorFlow, MediaPipe, and YOLO (v5-v26) for facial detection, segmentation, and human movement tracking.
@@ -30,9 +30,28 @@ I am a dedicated Application Engineer and Mechatronics graduate with nearly 5 ye
 
 ---
 
-### 🚀 Featured Personal Projects
+### 🏭 Enterprise Test & Industrial Systems (Flagship Architectures)
 
-I love building lightweight, highly optimized desktop tools to improve daily productivity and workflow automation. Check out my latest open-source projects:
+Production-grade engineering platforms demonstrating 5+ years of expertise in Test & Measurement, Hardware Abstraction Layers (HAL), Digital Signal Processing (DSP), and Industrial IoT:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ <a href="https://github.com/kiran10299/OpenATE-Engine">OpenATE-Engine</a></h3>
+      <p>Enterprise <strong>Automated Test Equipment (ATE)</strong> execution framework built in Python. Features SCPI/VISA Hardware Abstraction Layer (HAL) for multi-vendor instruments (DMM, Power Supply, Oscilloscope), multi-threaded state-machine sequencer, limit compliance evaluations, SQLite datalogging, and automated HTML/CSV compliance certificates.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 <a href="https://github.com/kiran10299/EdgeVibe-Pro">EdgeVibe-Pro</a></h3>
+      <p>Industrial Edge <strong>Vibration DAQ & Diagnostic Engine</strong> complying with <strong>ISO 10816-3</strong> machine health standards. Features zero-copy thread-safe circular ring buffer, real-time Hanning FFT spectral DSP, Bearing Fault Kurtosis/Crest Factor calculation, trip alarms, and Modbus TCP SCADA holding register gateway.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Robotics, AI & Desktop Engineering
+
+Check out my robotics, computer vision, and desktop automation tools:
 
 <table>
   <tr>
