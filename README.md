@@ -37,22 +37,32 @@ I love building lightweight, highly optimized desktop tools to improve daily pro
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚙️ <a href="https://github.com/kiran10299/LabVIEW-Python-AI-Bridge">LabVIEW Python AI Bridge</a></h3>
-      <p>A hybrid architecture demonstrating how to process high-speed LabVIEW DAQ data through a Python Machine Learning backend for real-time Predictive Maintenance and Anomaly Detection.</p>
+      <h3 align="center">🤖 <a href="https://github.com/kiran10299/2D-LiDAR-SLAM-Simulator">2D LiDAR SLAM Simulator</a></h3>
+      <p>A pure-Python 2D Mobile Robot & LiDAR SLAM simulator with real-time <strong>Log-Odds Occupancy Grid Mapping</strong>, kinematics, and autonomous frontier exploration.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🖐️ <a href="https://github.com/kiran10299/AI-Hand-Gesture-Controller">AI Hand-Gesture PC Controller</a></h3>
-      <p>A Computer Vision-powered desktop application built with <strong>Python, OpenCV, and MediaPipe</strong> that allows you to control your Windows mouse, scroll, and click using real-time hand gestures and a Sci-Fi HUD.</p>
+      <h3 align="center">👁️ <a href="https://github.com/kiran10299/Smart-Posture-Drowsiness-Monitor">Smart Posture & Drowsiness AI</a></h3>
+      <p>Real-time Computer Vision ergonomic assistant using <strong>MediaPipe FaceMesh</strong> calculating <strong>Eye Aspect Ratio (EAR)</strong> and <strong>3D Head Pose</strong> (solvePnP) to detect fatigue.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛠️ <a href="https://github.com/kiran10299/Desktop-Super-Tools">Desktop-Super-Tools</a></h3>
-      <p>A suite of background productivity scripts including a <i>"Zero-Clutter"</i> background watchdog that automatically organizes your downloaded files, and a <i>"Quick-Drop"</i> global transparent notepad.</p>
+      <h3 align="center">🎯 <a href="https://github.com/kiran10299/AI-Trajectory-Speed-Estimator">AI Trajectory & Speed Estimator</a></h3>
+      <p>Computer Vision traffic analytics engine with <strong>Centroid Multi-Object Tracking</strong>, temporal velocity vectors, calibrated speed traps, and density heatmaps.</p>
     </td>
     <td width="50%">
-      <h3 align="center">👒 <a href="https://github.com/kiran10299/Straw-Hat-Reminders">Straw-Hat-Reminders</a></h3>
-      <p>A fully animated, procedural vector-graphics desktop pet that runs silently in your system tray and monitors your active screen time to remind you to drink water, stretch, and rest your eyes.</p>
+      <h3 align="center">⚙️ <a href="https://github.com/kiran10299/LabVIEW-Python-AI-Bridge">LabVIEW Python AI Bridge</a></h3>
+      <p>A hybrid architecture demonstrating how to process high-speed LabVIEW DAQ data through a Python Machine Learning backend for real-time Predictive Maintenance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🖐️ <a href="https://github.com/kiran10299/AI-Hand-Gesture-Controller">AI Hand-Gesture PC Controller</a></h3>
+      <p>A Computer Vision desktop application built with <strong>Python, OpenCV, and MediaPipe</strong> allowing full mouse cursor, scroll, and click control via hand gestures.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ <a href="https://github.com/kiran10299/Desktop-Super-Tools">Desktop-Super-Tools</a></h3>
+      <p>A suite of background productivity scripts including a <i>"Zero-Clutter"</i> watchdog that automatically organizes downloaded files, and a global transparent notepad.</p>
     </td>
   </tr>
 </table>
