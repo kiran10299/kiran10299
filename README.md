@@ -2,12 +2,19 @@
 <h3 align="center">Application Engineer | Robotics & Automation Expert | Python & LabVIEW Developer</h3>
 
 <p align="center">
-  <a href="https://l1nk.dev/lS2L8" target="_blank">
+  <a href="https://www.linkedin.com/in/kiranshivakumar" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kiran10299.github.io" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio_Website-0f172a.svg?style=for-the-badge&logo=google-chrome&logoColor=38bdf8"/>
   </a>
   <a href="mailto:kiran10299@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-kiran10299%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiran10299&color=22d3ee&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
