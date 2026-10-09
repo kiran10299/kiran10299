@@ -49,6 +49,13 @@ Production-grade engineering platforms demonstrating 5+ years of expertise in Te
 
 ---
 
+### ✍️ Featured Technical Deep Dive & Engineering Blog
+
+- 🔬 **[Wear Scar Detection with YOLO, Python and LabVIEW](https://kiran10299.github.io/blog-wear-scar-yolo-labview.html)** *(Oct 2026)*  
+  *Automating optical wear scar measurement on test specimens using custom YOLOv5 models, background PyQt5 camera daemons, and LabVIEW binary TCP sequencing — replacing subjective manual optical measurements with a repeatable sub-micrometre machine vision pipeline.*
+
+---
+
 ### 🚀 Robotics, AI & Desktop Engineering
 
 Check out my robotics, computer vision, and desktop automation tools:
