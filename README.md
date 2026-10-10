@@ -49,10 +49,13 @@ Production-grade engineering platforms demonstrating 5+ years of expertise in Te
 
 ---
 
-### ✍️ Featured Technical Deep Dive & Engineering Blog
+### ✍️ Featured Technical Deep Dives & Engineering Blog
 
 - 🔬 **[Wear Scar Detection with YOLO, Python and LabVIEW](https://kiran10299.github.io/blog-wear-scar-yolo-labview.html)** *(Oct 2026)*  
   *Automating optical wear scar measurement on test specimens using custom YOLOv5 models, background PyQt5 camera daemons, and LabVIEW binary TCP sequencing — replacing subjective manual optical measurements with a repeatable sub-micrometre machine vision pipeline.*
+
+- ⚡ **[Designing a Hardware Abstraction Layer (HAL) for Mixed-Vendor Test Systems](https://kiran10299.github.io/blog-hal-mixed-vendor-ate.html)** *(Oct 2026)*  
+  *How to eliminate vendor lock-in and instrument obsolescence by decoupling test sequences from Keysight, Keithley, and Modbus hardware through abstract base interfaces, dynamic dependency injection, and zero-hardware simulation.*
 
 ---
 
